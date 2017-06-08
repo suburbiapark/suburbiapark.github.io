@@ -6385,7 +6385,6 @@ nav.navbar ul.nav.navbar-nav > li:not(:first-child):after {
   left: 0;
   top: 50%;
   margin-top: -18px;
-  background: url("../images/content/country-menu-separator.png") no-repeat;
 }
 nav.navbar ul.nav.navbar-nav > li.dropdown > a {
   position: relative;
