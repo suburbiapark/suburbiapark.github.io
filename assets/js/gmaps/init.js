@@ -26,6 +26,7 @@
 
                 if (validatedata(location)) {
                     $this.gmap3({
+                        key: 'AIzaSyDbri16KmfmCeJyRviYZXfAh8DunS5K7Bo',
                         marker: {
                             //latLng: [40.616439, -74.035540],
                             address: location,
